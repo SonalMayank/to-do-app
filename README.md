@@ -2,8 +2,8 @@
 A simple and stylish React + TypeScript based To-Do application.
 
 Clone the repo:
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/SonalMayank/to-do-app.git
+cd to-do-app
 
 Install dependencies:
 npm install
