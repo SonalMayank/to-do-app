@@ -1,12 +1,15 @@
-To run the project locally:
+# to-do-app
+A simple and stylish React + TypeScript based To-Do application.
 
-Unzip the file.
+Clone the repo:
+git clone https://github.com/SonalMayank/to-do-app.git
+cd to-do-app
 
-Run npm install to install dependencies.
+Install dependencies:
+npm install
 
-Start the app using npm start.
-
-Open http://localhost:3000 in your browser.
+Start the development server:
+npm start      
 
 
 
